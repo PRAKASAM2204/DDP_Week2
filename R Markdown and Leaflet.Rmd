@@ -1,7 +1,7 @@
 ---
-title: "My First Leaflet Map"
-author: "Christian Frei"
-date: "6 July 2017"
+title: "R Markdown and Leaflet"
+author: "PRAKASAM2204"
+date: "1 August 2020"
 output: html_document
 ---
 
